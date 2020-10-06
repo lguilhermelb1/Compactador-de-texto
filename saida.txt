@@ -1,0 +1,6 @@
+
+A letra 'c' repete 1 vez(es)
+A letra 'a' repete 2 vez(es)
+A letra 'e' repete 2 vez(es)
+A letra 'b' repete 3 vez(es)
+A letra 'd' repete 4 vez(es)
